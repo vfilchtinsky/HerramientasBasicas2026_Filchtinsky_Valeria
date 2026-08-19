@@ -1,2 +1,8 @@
 # HerramientasBasicas2026_Filchtinsky_Valeria
-Repositorio creado para certificación del Curso de Herramientas Básicas para el análisis de datos cursado en año 2026
+## Repositorio creado para la certificación del Curso de Herramientas Básicas para el análisis de datos cursado en año 2026
+Para la elaboración de este proyecto utilice el dataset "Superstore Sales" que descargué de la página: https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales.
+El  mismo contiene registros de ventas para una tienda entre los años 2014 a 2017, incluyendo información relativa a cada transacción, con datos de fechas, clientes, ciudad, productos, cantidad y montos de ventas, y descuentos aplicados.
+Como preguntas de investigación definí las siguientes: determinar si el volumen de ventas varía en función del día de la semana, y determinar si el valor de la venta tiene correlación con la ganancia obtenida. 
+En una primera etapa realicé el análisis del dataset en Python, verificando que los datos estuvieran completos, tengan el tipo adecuado para su análisis y sean consistentes. Generé variables necesarias para analizar la evolución de las ventas según el día de la semana, realizando diferentes gráficos que me permitieran visualizar esa evolución. También generé variable de Ganancia sobre ventas y analicé correlación de la misma con el monto de venta. POr último descargué el dataset con los ajustes realizados.
+En una segunda etapa cargué el dataset ajustado en Power BI para elaborar un Tablero que me permitiera monitorear la evolución de las ventas y las variables analizadas. Generé una columna que me permitiera realizar filtro por año. Y desarrolle un tablero que permitiera visualizar el  monto de ventas y la ganancia sobre ventas, la distribución de las ventas por categoría de producto, y la evolución de las mismas según el día de la semana.
+En una tercera etapa generé el presente repositorio para cumplimentar la entrega del proyecto.
